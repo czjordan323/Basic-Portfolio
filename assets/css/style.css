@@ -1,0 +1,63 @@
+
+  .WholePage {
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding:  10px;
+    font-family: Arial, Helvetica, sans-serif;
+  position: relative;
+  }
+
+
+  h1 {
+    background-color: #4aaaa5;
+    color: #ffffff;
+    padding: 2%;
+    font-family: sans-serif;
+    font-size: 30;
+    font-weight: 100;
+    line-height: 1.5px;
+    margin-right: 776px;
+    margin-left: 37px;
+    text-align: center;
+
+    
+}
+
+}
+  
+.list {
+  margin: 35px;
+  border-style: solid;
+
+}
+ul.a {
+  list-style: none;
+  text-align: right;
+  margin-left: 876px;
+  
+}
+ 
+  
+
+  .a li {
+      display: inline;
+      margin: 1%;
+      font-size: 19px;
+      text-align: right;
+      
+      
+      
+  }
+
+  
+
+  h2 {
+    margin: 35px;
+    color: #4aaaa5;
+    font-weight: 100;
+  }
+
+  p {
+   margin:  35px; 
+  }
