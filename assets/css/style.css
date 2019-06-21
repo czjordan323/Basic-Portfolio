@@ -1,11 +1,25 @@
 body {
-    margin: 0px 140px 0px 140px;
 }
 
 .nav {
     width: auto;
+    
 }
 
 h1 {
-    margin-left: 10px;
+    margin-left: 25px;
+    padding: 10px;
+    
+    
+}
+
+.heading {
+    background-color: aqua;
+    width: 230px;
+    height: 65px;
+    margin: -25px 140px 0px 140px;
+}
+
+.border {
+    border-top: solid;
 }
