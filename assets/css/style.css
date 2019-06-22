@@ -1,20 +1,27 @@
 body {
+    font-family: Arial, Helvetica, sans-serif;
+
 }
 
 .nav {
     width: auto;
+    background-color:#ffffff;
+     
     
 }
 
 h1 {
     margin-left: 25px;
     padding: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 27px;
+
     
     
 }
 
 .heading {
-    background-color: aqua;
+    background-color: #4aaaa5;
     width: 230px;
     height: 65px;
     margin: -25px 140px 0px 140px;
